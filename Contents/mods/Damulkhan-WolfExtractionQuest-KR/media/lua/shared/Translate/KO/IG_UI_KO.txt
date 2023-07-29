@@ -1,0 +1,68 @@
+IGUI_KO = {
+    IGUI_WQS_MainLabel = "탈출",
+
+    IGUI_WQS_GuiTitle = "탈출 추적기",
+    IGUI_WQS_ReqExtraction = "탈출 요구사항",
+    IGUI_WQS_CompleteExtraction = "탈출 완료",
+
+
+    IGUI_WQS_CloseLabel = "닫기",
+
+    IGUI_WQS_StatusExtraction1 = "탈출구역에 도착하지 못했습니다.",
+    IGUI_WQS_StatusExtraction2 = "탈출을 요청할 수 있습니다!",
+    IGUI_WQS_StatusExtraction3 = "탈출을 진행중입니다.",
+    IGUI_WQS_StatusExtraction4 = "탈출을 완료할 수 있습니다!",
+    IGUI_WQS_StatusExtraction5 = "탈출을 완료할 수 있습니다. 탈출 영역으로 이동하세요!",
+    IGUI_WQS_StatusExtraction6 = "도착 예정일",
+    IGUI_WQS_StatusExtraction9 = "탈출이 완료되었습니다!!",
+
+    IGUI_WQS_ZlevelLabel = "Elevation",
+    IGUI_WQS_HoursLeftLabel = "시간 남음",
+    IGUI_WQS_HoursLabel = "시간",
+    IGUI_WQS_TooLateLabel = "너무 늦었어요, 늦었어.",
+    IGUI_WQS_MissingExtractionItemTxt = "연락처를 설정하려면 목록에 군용 무전기가 필요합니다.",
+    IGUI_WQS_SignalNotActiveTxt = "라디오 신호 활성화",
+    IGUI_WQS_Distance = "거리",
+    IGUI_WQS_ExtrMapLabel = "탈출 지도",
+
+    IGUI_WQS_ContactHQ = "연락처 본부",
+    IGUI_WQS_HeadquarterMainLabel = "본부",
+    IGUI_WQS_AntennaMainLabel = "안테나",
+    IGUI_WQS_AntennaReqNewExtractionPoint = "새로운 탈출지역 요청",
+    IGUI_WQS_AntennaTooCloseToExtrPointTxt = "탈출지역과 안테나가 너무 가깝습니다",
+    IGUI_WQS_AntennaMustBeOutsideTxt = "안테나는 외부에 있어야 합니다.",
+    IGUI_WQS_NeedAntennaToStartQuestTxt = "본부에 연락해서 탈출을 요청하려면 안테나 근처에 있어야 합니다.",
+    IGUI_WQS_NeedContactHQToStartQuestTxt = "본부에 연락해서 탈출을 요청합니다.",
+    IGUI_WQS_SetExtractionToBut = "탈출 요청대상",
+    IGUI_WQS_ReqNewExtractionPointDesc = "새 탈출 구역을 요청하면 고정 구역을 요청하거나 본부에서 임의로 할당할 수 있습니다.",
+    IGUI_WQS_ReqNewExtractionPointDone = "새 탈출 구역이 성공적으로 요청되었습니다."
+    IGUI_WQS_ExtractionMapCraftInfo = "지도가 있으면 업데이트되고, 그렇지 않으면 종이와 필기도구를 사용하여 지도를 만들 수 있습니다.",
+
+    IGUI_WQS_RandomOpt1="모든 영역을 포함하여 임의로 선택"
+    IGUI_WQS_RandomOpt2="루이빌 구역만 포함하여 임의로 선택"
+    IGUI_WQS_RandomOpt3="루이빌 구역만 제외하여 임의로 선택"
+
+	IGUI_WQS_North = "북",
+	IGUI_WQS_Northwest = "북서",
+	IGUI_WQS_West = "서",
+	IGUI_WQS_Southwest = "남서",
+	IGUI_WQS_South = "남",
+	IGUI_WQS_Southeast = "남동",
+	IGUI_WQS_East = "동",
+	IGUI_WQS_Northeast = "북동",
+
+
+	IGUI_WQS_Heli0 = "..헬리콥터가 이륙해서 가는 중..",
+	IGUI_WQS_Heli1 = "..날씨가 나빠서 헬리콥터가 착륙할 수 없음..",
+	IGUI_WQS_Heli2 = "..지금 헬리콥터가 접근 중..",
+
+	IGUI_WQS_Out_Of_EZone = "탈출 지역으로부터 너무 멀리 떨어져 있습니다. 신호가 손실되었습니다.",
+
+
+    IGUI_WQS_StartModal = "<H1> 그래서 그것이 시작되었습니다.<LINE> <TEXT> <IMAGECENTRE:media/ui/img/start.png> <LINE> <LINE>  <SIZE:large> 죽어가는 남자가 당신에게 주는 마지막 선물로 손에 든 지도를 바라보며 손가락으로 선을 그어주고 그것을 당신의 손바닥에 놓아즙니다.<LINE> 그는 헬리콥터가 당신을 구하러 올 탈출지점에 대해 속삭였습니다. 하지만 조종사를 부르려면 군용 무전기가 필요했습니다. <LINE> 당신에게 지도를 준 사람이 당신이 안전하게 도착하는 것을 결코 보지 못할 것이라는 것을 알고 당신은 슬퍼합니다. 하지만 앞으로의 위험한 여정에 대비해 자신을 단련시키세요. <LINE> 지도를 조심스럽게 접어서 주머니에 넣으면 시작됩니다. <LINE> <LINE> ",
+
+    IGUI_WQS_EndModal = "<H1> 그럼 끝인가요? <LINE> <TEXT> <IMAGECENTRE:media/ui/img/final.png> <LINE> <LINE>  <SIZE:large> 모든 희망을 잃었다고 생각할 때, 헬리콥터가 당신 위를 맴돌며 거리를 좁히고 있는 것을 볼 수 있었습니다. 좌우로 좀비를 피하며 달려갑니다. <LINE> 가까이 다가가니 조종사가 서둘러 줄 것을 재촉하며 미친듯이 손을 흔드는 모습이 보입니다. <LINE> 헬리콥터가 공중으로 솟구칠 때 당신은 점프하여 착륙 스키드를 잡았습니다. <LINE> 폭풍이 거세게 몰아치고 조종사는 이를 안정시키기 위해 안간힘을 쓰다가 갑자기 요란한 쾅 소리가 나면서 헬기가 통제불능의 회전을 시작합니다. <LINE> <LINE> <CENTRE> 당신은 살아남을 수 있을지 확신하지 못한채 충격에 대비하고 있습니다. <LINE> <CENTRE> <SIZE:large> <H1> 이렇게 해서 죽었을까요? <LINE> <LINE> ",
+
+}
+
+

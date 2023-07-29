@@ -1,0 +1,8 @@
+version=1
+id=3008693863
+title=Damulkhan's Mods
+description=모드들 한글어번역.
+description=번역: Damulkhan, 일부 기존 번역포함
+description=적용모드 목록: https://docs.google.com/spreadsheets/d/1sAfmtiq5YlDSBVGlGbLybaHg340Jpl2GLyP51oQ6FBg/edit?usp=sharing
+tags=Build 41;Language/Translation
+visibility=public

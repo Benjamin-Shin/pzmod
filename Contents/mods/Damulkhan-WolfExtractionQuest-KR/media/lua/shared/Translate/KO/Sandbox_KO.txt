@@ -1,0 +1,48 @@
+Sandbox_KO = {
+    Sandbox_WQS = "울프 탈출 퀘스트",
+        
+    Sandbox_WQS_DeadlineDays_txt = "마감일",
+    Sandbox_WQS_DeadlineDays_txt_tooltip = "헬리콥터 호출에 필요한 무선신호가 활성화된 후 탈출지점에 도달하는 최대 게임일수 \n 0 - 마감시간을 비활성화.",
+
+    Sandbox_WQS_ExtractionEventHoursDuration_txt = "탈출 이벤트 기간",
+    Sandbox_WQS_ExtractionEventHoursDuration_txt_tooltip = "탈출 이벤트 시간(게임시간) \n 3 또는 4시간 권장",
+
+    Sandbox_WQS_ExtractionEventDifficulty_txt = "탈출 이벤트 어려움 증가",
+    Sandbox_WQS_ExtractionEventDifficulty_txt_tooltip = "탈출 이벤트의 전체 난이도를 제어합니다.",
+
+    Sandbox_WQS_WaitForSignalDuration_txt = "무선 신호 대기기간(일)",
+    Sandbox_WQS_WaitForSignalDuration_txt_tooltip = "헬리콥터 호출에 필요한 무선신호가 활성화되기 전까지 경과해야 하는 일수\n 0 - 이 옵션을 비활성화하고 시작 시 신호를 활성화됩니다.",
+
+    Sandbox_WQS_StartWithExtractionItem_txt = "탈출에 필요한 아이템을 가지고 시작",
+    Sandbox_WQS_StartWithExtractionItem_txt_tooltip = "탈출에 필요한 아이템을 가지고 시작합니다. 찾을 필요가 없음.",
+
+    Sandbox_WQS_ConfinedMode_txt = "제한 모드",
+    Sandbox_WQS_ConfinedMode_txt_tooltip = "이 옵션을 선택하면 탈출 이벤트의 전체기간 동안 탈출 지점 근처에 있어야 합니다.",
+
+    Sandbox_WQS_GameModeExtended_txt = "확장 퀘스트 모드",
+    Sandbox_WQS_GameModeExtended_txt_tooltip = "이 옵션을 선택하면 퀘스트가 처음에 활성화되지 않으며 안테나를 만든 후에만 시작할 수 있습니다.",
+
+
+    Sandbox_WQS_ZoneMap_txt = "탈출 지역",
+    Sandbox_WQS_ZoneMap_txt_tooltip = "탈출 지역 선택",
+
+    Sandbox_WQS_ZoneMap_optlist_option1 = "무작위",
+    Sandbox_WQS_ZoneMap_optlist_option2 = "루이빌 다리",
+    Sandbox_WQS_ZoneMap_optlist_option3 = "루이빌 오리오 몰",
+    Sandbox_WQS_ZoneMap_optlist_option4 = "루이빌 센트럴 병원",
+    Sandbox_WQS_ZoneMap_optlist_option5 = "루이빌 포스오일 공장",
+    Sandbox_WQS_ZoneMap_optlist_option6 = "루이빌 오리오 사무실",
+    Sandbox_WQS_ZoneMap_optlist_option7 = "멀드로 매스-젠팩(Mass-Genfac)",
+    Sandbox_WQS_ZoneMap_optlist_option8 = "멀드로 축구장",
+    Sandbox_WQS_ZoneMap_optlist_option9 = "마치리지 영화관",
+    Sandbox_WQS_ZoneMap_optlist_option10 = "로즈우드 교도소",
+
+    Sandbox_WQS_ZoneMap_random_txt = "임의 탈출지역 기본설정",
+    Sandbox_WQS_ZoneMap_random_txt_tooltip = "무작위 탈출 구역을 선택한 경우 임의 선택목록에 포함할 구역(모드 지도 포함)을 선택할 수 있습니다. \n 고정된 탈출지역을 선택하면 이 매개 변수는 무시됩니다.",
+    Sandbox_WQS_ZoneMap_random_optlist_option1 = "모든 영역을 포함하여 임의로 선택",
+    Sandbox_WQS_ZoneMap_random_optlist_option2 = "루이빌 지역만 포함하여 임의로 선택",
+    Sandbox_WQS_ZoneMap_random_optlist_option3 = "루이빌 지역을 제외하여 임의로 선택",
+   
+
+
+}
