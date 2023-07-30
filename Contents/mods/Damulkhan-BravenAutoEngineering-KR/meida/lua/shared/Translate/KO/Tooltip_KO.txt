@@ -1,0 +1,10 @@
+Tooltip_KO = {
+	-- Braven's Auto Engineering
+	Tooltip_NeedsWreckMagazine = "이것을 하려면, 먼저 읽어야 합니다. ",
+	Tooltip_WreckFixInfo = "부서진 차량을 수리하면 다시 작동하게 될 것입니다. ",
+	Tooltip_RemoveEngineInfo = "이 엔진을 제거하여 다른 차량에 장착할 수 있도록 하세요. ",
+	Tooltip_item_AEEngine = "우클릭으로 엔진 세부정보를 불러옵니다. ",
+	Tooltip_EngineUnusable = "이 차량의 엔진은 너무 손상되어 제거할 수 없습니다. ",
+	Tooltip_EngineForce = "마력:",
+	Tooltip_EngineQuality = "품질:",
+}
