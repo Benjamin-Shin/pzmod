@@ -5,3 +5,4 @@ id=DamulkhanBravenAutoEngineeringKR
 authors=Damulkhan
 description=<RGB:0.8,0.8,1>Braven's Auto Engineering 한글어번역. <LINE> <LINE>
 description=<LINE> <LINE>번역: Damulkhan <LINE>
+require=BB_Auto_Engineering

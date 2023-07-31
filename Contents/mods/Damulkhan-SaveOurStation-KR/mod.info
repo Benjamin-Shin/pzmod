@@ -1,0 +1,9 @@
+name=Damulkhan's Mod 한글화 [Save Our Station!]
+poster=poster.png
+id=DamulkhanSaveOurStationKR
+icon=lcon.png
+authors=Damulkhan
+description=<RGB:0.8,0.8,1>Save Our Station! 한글어번역. <LINE> <LINE>
+description=<LINE> <LINE>번역: Damulkhan <LINE>
+require=SaveOurStation_Core
+require=SaveOurStation_KnoxCountry
