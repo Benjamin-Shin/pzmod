@@ -47,61 +47,61 @@
     <ScriptEntry ID="c1d62d2d-af2a-4b20-8e40-a142e783a4b2" name="Tv Ads" startdelay="0" timestampmode="Static" loopmin="1" loopmax="1">
       <ExitOptions />
       <BroadcastEntry ID="81f67fca-7ac4-4ea5-96e0-2a61888f7395" timestamp="0" endstamp="360" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="c819deda-9d76-47f8-a6ce-956828ffe274" r="128" g="128" b="255">Tough Week?</LineEntry>
-        <LineEntry ID="88179fe0-1eba-488a-bb8a-beb707ff43c4" r="128" g="128" b="255">Boss Giving you grief?</LineEntry>
-        <LineEntry ID="777cf4f3-e29c-46f4-8f44-ebf47af7569b" r="128" g="128" b="255">kids driving you crazy?</LineEntry>
-        <LineEntry ID="56723a64-b484-46d6-8c40-62a28827ea85" r="128" g="128" b="255">find yourself walking in circles?</LineEntry>
-        <LineEntry ID="2c91dc6a-352c-4ccd-98fd-5c38548ff95a" r="128" g="128" b="255">we have the real answer</LineEntry>
-        <LineEntry ID="8522b9f6-dcbf-4baa-9e69-75f2861f936c" r="128" g="128" b="255">Cannibus for Men.</LineEntry>
-        <LineEntry ID="d5cd752f-afff-49bc-810c-1f34f9a253c1" r="128" g="128" b="255">Body Spray for $99</LineEntry>
-        <LineEntry ID="6200ab3d-dcc6-4266-a1e1-73ecb740e83c" r="128" g="128" b="255">Makes the Boss, Like you.</LineEntry>
-        <LineEntry ID="3c5e66a0-cc65-4f24-a7f1-10eeddd7cb65" r="128" g="128" b="255">Chills out the Kids.</LineEntry>
-        <LineEntry ID="1a5b125d-1fec-4305-a1af-17f5c961679a" r="128" g="128" b="255">Helps with the Walking in Circles</LineEntry>
-        <LineEntry ID="ec54f5c8-fa53-4f63-ae4f-a315564b0195" r="128" g="128" b="255">Come on Down to Trelai Cannibus Medical, for "body Spray" and Supplies.</LineEntry>
+        <LineEntry ID="c819deda-9d76-47f8-a6ce-956828ffe274" r="128" g="128" b="255">힘든 한 주 되셨나요?</LineEntry>
+        <LineEntry ID="88179fe0-1eba-488a-bb8a-beb707ff43c4" r="128" g="128" b="255">상사가 당신에게 슬픔을 주었나요?</LineEntry>
+        <LineEntry ID="777cf4f3-e29c-46f4-8f44-ebf47af7569b" r="128" g="128" b="255">당신을 미치게 하는 아이들?</LineEntry>
+        <LineEntry ID="56723a64-b484-46d6-8c40-62a28827ea85" r="128" g="128" b="255">원을 그리며 걷는 자신을 발견합니까?</LineEntry>
+        <LineEntry ID="2c91dc6a-352c-4ccd-98fd-5c38548ff95a" r="128" g="128" b="255">우리는 진짜 답을 가지고 있습니다</LineEntry>
+        <LineEntry ID="8522b9f6-dcbf-4baa-9e69-75f2861f936c" r="128" g="128" b="255">남자들을 위한 카니버스.</LineEntry>
+        <LineEntry ID="d5cd752f-afff-49bc-810c-1f34f9a253c1" r="128" g="128" b="255">바디 스프레이 99달러</LineEntry>
+        <LineEntry ID="6200ab3d-dcc6-4266-a1e1-73ecb740e83c" r="128" g="128" b="255">상사를 당신처럼 만듭니다.</LineEntry>
+        <LineEntry ID="3c5e66a0-cc65-4f24-a7f1-10eeddd7cb65" r="128" g="128" b="255">오싹한 아이들.</LineEntry>
+        <LineEntry ID="1a5b125d-1fec-4305-a1af-17f5c961679a" r="128" g="128" b="255">원을 그리며 걷는 것을 도와줍니다.</LineEntry>
+        <LineEntry ID="ec54f5c8-fa53-4f63-ae4f-a315564b0195" r="128" g="128" b="255">트렐라이 카니버스 메디컬에 와서 "바디 스프레이"와 보급품을 받으세요.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="969c6afd-0c23-40ec-9f4c-d186cfd14bdf" timestamp="360" endstamp="720" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="0a21c1ca-4cfd-441d-b7ee-e627249cc69d" r="128" g="128" b="255">&lt;muffled&gt;</LineEntry>
-        <LineEntry ID="c4126276-a10b-4c4d-8c27-976ce725e429" r="0" g="128" b="192">Trelai International Airport</LineEntry>
-        <LineEntry ID="17eff438-9249-49f4-9273-292ea2335f39" r="128" g="128" b="255">Is hiring for emergency workers</LineEntry>
-        <LineEntry ID="eaa4621d-28f7-47cf-bf1e-ba867267e1b9" r="128" g="128" b="255">send your job application to us now</LineEntry>
-        <LineEntry ID="f8de82c9-515a-41e4-b689-8a1c85017410" r="128" g="128" b="255">&lt;muffled&gt;</LineEntry>
+        <LineEntry ID="0a21c1ca-4cfd-441d-b7ee-e627249cc69d" r="128" g="128" b="255">&lt;소리를 차단해&gt;</LineEntry>
+        <LineEntry ID="c4126276-a10b-4c4d-8c27-976ce725e429" r="0" g="128" b="192">트렐라이 국제공항</LineEntry>
+        <LineEntry ID="17eff438-9249-49f4-9273-292ea2335f39" r="128" g="128" b="255">비상 근무자를 고용하는 것이</LineEntry>
+        <LineEntry ID="eaa4621d-28f7-47cf-bf1e-ba867267e1b9" r="128" g="128" b="255">지금 우리에게 입사 지원서를 보내주는 것입니까</LineEntry>
+        <LineEntry ID="f8de82c9-515a-41e4-b689-8a1c85017410" r="128" g="128" b="255">&lt;소리를 차단해&gt;</LineEntry>
         <LineEntry ID="813ff73b-6ced-488b-96ac-7fd9a8fb6b5b" r="0" g="128" b="64"></LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="34ab9604-51a1-49f9-82b9-2c0b97e2bb7d" timestamp="720" endstamp="1080" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="f6b813ae-0c23-49a5-8019-1af4381d2ac9" r="128" g="128" b="255">&lt;muffled&gt;</LineEntry>
-        <LineEntry ID="4f7539db-23f5-4afc-84f7-87e1a24ed280" r="128" g="128" b="255" codes="BOR-1,LFT-1">Coming up next on Trelai TV...</LineEntry>
-        <LineEntry ID="374117b7-2c2f-4567-becd-8d483a46e5d9" r="128" g="128" b="192">&lt;muffled&gt;</LineEntry>
+        <LineEntry ID="f6b813ae-0c23-49a5-8019-1af4381d2ac9" r="128" g="128" b="255">&lt;소리를 차단해&gt;</LineEntry>
+        <LineEntry ID="4f7539db-23f5-4afc-84f7-87e1a24ed280" r="128" g="128" b="255" codes="BOR-1,LFT-1">트렐라이 TV 다음 방송...</LineEntry>
+        <LineEntry ID="374117b7-2c2f-4567-becd-8d483a46e5d9" r="128" g="128" b="192">&lt;소리를 차단해&gt;</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="6dcf21f5-8111-44d0-9a11-467a2c33cf51" timestamp="1080" endstamp="1440" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="e06841f5-4b01-4386-ab98-d1e1484d87c7" r="128" g="128" b="255">Trelai Goods </LineEntry>
-        <LineEntry ID="da3e43a8-19d2-4a0e-90d0-b22834fc3b6a" r="128" g="128" b="255">We've got all the goods from snacks to packs</LineEntry>
-        <LineEntry ID="a4335d6d-1b05-40d8-a5d1-c0aec8f92cd2" r="128" g="128" b="255">Dirt Lane 24hr</LineEntry>
+        <LineEntry ID="e06841f5-4b01-4386-ab98-d1e1484d87c7" r="128" g="128" b="255">트렐라이 상품</LineEntry>
+        <LineEntry ID="da3e43a8-19d2-4a0e-90d0-b22834fc3b6a" r="128" g="128" b="255">과자부터 팩까지 모든 상품이 준비되어 있습니다</LineEntry>
+        <LineEntry ID="a4335d6d-1b05-40d8-a5d1-c0aec8f92cd2" r="128" g="128" b="255">더트 레인 24시간</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="6b6ace2e-5294-4775-9d2b-da1d2b11c651" timestamp="1440" endstamp="1800" type="ActivateBroadcast" day="1" advertCat="none" isSegment="true">
-        <LineEntry ID="21f47ab4-5bb7-483d-9a96-2cab9f83763b" r="128" g="128" b="64">Opening shot of Trelai General Goods storefront with a lively tune playing in the background.</LineEntry>
-        <LineEntry ID="c29d40f0-98ef-4382-b15d-bb91f349f3d5" r="128" g="128" b="255">"Looking for a one-stop shop for all your needs? Look no further than Trelai General Goods!"</LineEntry>
-        <LineEntry ID="cce3f7b9-c2c6-4ec0-b237-8c4ffb8d2e6a" r="128" g="128" b="255">Grand Avenue 24hr, Industrial Area, And Many Other Locations.</LineEntry>
-        <LineEntry ID="0a7fb1c7-bc29-4465-a941-5f93e73fe5b4" r="128" g="128" b="64">Camera pans to various sections of the store, showcasing the wide variety of products available.</LineEntry>
-        <LineEntry ID="abf5c97d-eb35-4819-851b-fa26d8ec5cc0" r="128" g="128" b="255">"We've got everything from sporting equipment for your weekend games, to essential goods for your everyday needs. And with new stock arriving daily, there's always something fresh to discover."</LineEntry>
-        <LineEntry ID="2b8eefb0-6c61-4b48-8a18-87bec7b073e0" r="128" g="128" b="64">Cut to a customer browsing the store, picking up various items with a smile on their face.</LineEntry>
-        <LineEntry ID="4e18daab-2138-495a-8c14-de460fbcfd71" r="128" g="128" b="192">"At Trelai General Goods, we pride ourselves on providing top-notch customer service and quality products at affordable prices. So whether you're stocking up on groceries, looking for some new workout gear, or just browsing for a unique find, we've got you covered."</LineEntry>
-        <LineEntry ID="34dd63ea-ff1c-431d-a68e-37051b07a22a" r="128" g="128" b="64">Closing shot of the storefront with the Trelai General Goods logo displayed prominently.</LineEntry>
-        <LineEntry ID="dc36f111-9e07-4236-8394-6e8e6e83ee32" r="128" g="128" b="255">"Trelai General Goods, your go-to destination for all your shopping needs. Come visit us today!"</LineEntry>
+        <LineEntry ID="21f47ab4-5bb7-483d-9a96-2cab9f83763b" r="128" g="128" b="64">트렐라이 제너럴 굿즈 매장의 오프닝 샷으로 활기찬 곡이 배경에서 연주됩니다.</LineEntry>
+        <LineEntry ID="c29d40f0-98ef-4382-b15d-bb91f349f3d5" r="128" g="128" b="255">"당신의 모든 필요를 위해 원스톱 상점을 찾고 있습니까? 트렐라이 잡화만 살펴보십시오!"</LineEntry>
+        <LineEntry ID="cce3f7b9-c2c6-4ec0-b237-8c4ffb8d2e6a" r="128" g="128" b="255">그랜드 애비뉴 24hr, 공업 지역, 그리고 다른 많은 장소들.</LineEntry>
+        <LineEntry ID="0a7fb1c7-bc29-4465-a941-5f93e73fe5b4" r="128" g="128" b="64">카메라가 매장의 다양한 구역을 돌아다니며 다양한 상품을 선보입니다.</LineEntry>
+        <LineEntry ID="abf5c97d-eb35-4819-851b-fa26d8ec5cc0" r="128" g="128" b="255">"우리는 당신의 주말 경기를 위한 스포츠 장비부터 당신의 일상적인 필요를 위한 필수품까지 모든 것을 가지고 있습니다. 그리고 매일 새로운 주식이 도착함에 따라, 항상 발견할 수 있는 신선한 것이 있습니다."</LineEntry>
+        <LineEntry ID="2b8eefb0-6c61-4b48-8a18-87bec7b073e0" r="128" g="128" b="64">매장을 둘러보는 고객에게 얼굴에 미소를 머금은 채 다양한 물건을 집어 드는 모습으로 자릅니다.</LineEntry>
+        <LineEntry ID="4e18daab-2138-495a-8c14-de460fbcfd71" r="128" g="128" b="192">"트렐라이 제너럴 굿즈에서 우리는 최고 수준의 고객 서비스와 양질의 제품을 저렴한 가격에 제공하는 것에 자부심을 가지고 있습니다. 따라서 식료품을 비축하고 있든, 새로운 운동 장비를 찾고 있든, 아니면 독특한 발견을 찾고 있든 간에, 우리는 당신을 보장합니다."</LineEntry>
+        <LineEntry ID="34dd63ea-ff1c-431d-a68e-37051b07a22a" r="128" g="128" b="64">트렐라이 잡화 로고가 눈에 띄게 진열된 매장 마감 사진.</LineEntry>
+        <LineEntry ID="dc36f111-9e07-4236-8394-6e8e6e83ee32" r="128" g="128" b="255">"트렐라이 제너럴 굿즈, 당신의 모든 쇼핑 욕구를 위한 목적지. 오늘 우리를 방문하세요!"</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="68fc637e-7bae-478c-829b-4c92269db7e5" timestamp="1800" endstamp="2160" type="ActivateBroadcast" day="1" advertCat="none" isSegment="true">
-        <LineEntry ID="db5a83ad-9552-4b38-9def-3d3cc78c4ce4" r="128" g="128" b="64">[Scene opens with a view of a beautiful house on a sunny day. A voiceover begins.]</LineEntry>
-        <LineEntry ID="02478a2e-572c-476e-9876-d9bb5efbd407" r="128" g="128" b="192">"When it comes to protecting your home, you need a roofing company you can trust. You need Roof Rats Roofin'. Located on Dirk Lane in Trelai's industrial area, Roof Rats Roofin' has been serving the community for over a Year."</LineEntry>
-        <LineEntry ID="10566fee-c58e-4154-a113-c547cd572191" r="128" g="128" b="64">[Cut to a shot of a team of Roof Rats Roofin' workers expertly repairing a roof.]</LineEntry>
-        <LineEntry ID="94ca0854-2647-46d0-9d2e-ca09ad5b086a" r="128" g="128" b="255">"Our experienced team of carpentry professionals will ensure your roof is in top condition, keeping your home safe from leaks and damage."</LineEntry>
-        <LineEntry ID="64e4c1b3-d78b-4823-bfd4-6394f97efc80" r="128" g="128" b="64">[Cut to a shot of a happy customer standing in front of their newly repaired roof.]</LineEntry>
-        <LineEntry ID="29472a03-7876-4b09-b255-87b6e9015b18" r="128" g="128" b="192">"Don't let a leaky roof ruin your day. Call Roof Rats Roofin' today for a free consultation and estimate. Our rates are competitive and our work is guaranteed."</LineEntry>
-        <LineEntry ID="1838ac41-5c29-4b24-8782-227feaf98f36" r="128" g="128" b="64" codes="CRP+1">[Cut to the Roof Rats Roofin' logo and contact information.]</LineEntry>
-        <LineEntry ID="661d5365-8145-4bd1-b7f7-740a64ef2eec" r="128" g="128" b="255">"Roof Rats Roofin'. Your local roofing experts. Call us today."</LineEntry>
+        <LineEntry ID="db5a83ad-9552-4b38-9def-3d3cc78c4ce4" r="128" g="128" b="64">[햇볕 좋은 날 아름다운 집이 보이는 풍경이 펼쳐집니다. 보이스오버가 시작됩니다.]</LineEntry>
+        <LineEntry ID="02478a2e-572c-476e-9876-d9bb5efbd407" r="128" g="128" b="192">"당신의 집을 보호하는 것과 관련하여, 당신은 믿을 수 있는 지붕 회사가 필요합니다. 당신은 지붕 래츠 루핑이 필요합니다. 트렐라이의 산업 지역의 더크 레인에 위치한 지붕 래츠 루핑은 1년 넘게 지역 사회를 위해 봉사하고 있습니다."</LineEntry>
+        <LineEntry ID="10566fee-c58e-4154-a113-c547cd572191" r="128" g="128" b="64">[루프 래츠 루프의 작업자들이 지붕을 전문적으로 수리하는 팀의 사진을 잘라냅니다.]</LineEntry>
+        <LineEntry ID="94ca0854-2647-46d0-9d2e-ca09ad5b086a" r="128" g="128" b="255">"경험이 풍부한 목공 전문가 팀이 지붕을 최상의 상태로 유지하여 누수와 손상으로부터 집을 안전하게 보호할 것입니다."</LineEntry>
+        <LineEntry ID="64e4c1b3-d78b-4823-bfd4-6394f97efc80" r="128" g="128" b="64">[새로 수리된 지붕 앞에 서 있는 행복한 고객의 사진을 오려냅니다.]</LineEntry>
+        <LineEntry ID="29472a03-7876-4b09-b255-87b6e9015b18" r="128" g="128" b="192">"물이 새는 지붕이 당신의 하루를 망치게 하지 마세요. 오늘 지붕 래츠 루핑에 전화해서 무료 상담과 견적을 받으세요. 우리의 요금은 경쟁력이 있고 우리의 일은 보장됩니다."</LineEntry>
+        <LineEntry ID="1838ac41-5c29-4b24-8782-227feaf98f36" r="128" g="128" b="64" codes="CRP+1">[루프 래츠 루핑' 로고 및 연락처로 절단]</LineEntry>
+        <LineEntry ID="661d5365-8145-4bd1-b7f7-740a64ef2eec" r="128" g="128" b="255">"지붕 쥐 지붕을'. 당신의 지역 지붕 전문가들. 오늘 우리에게 전화하세요."</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="1526e233-e8b4-4ea2-88d5-8912b6fec941" timestamp="2160" endstamp="2520" type="ActivateBroadcast" day="1" advertCat="none" isSegment="true">
-        <LineEntry ID="56e653b7-f4e0-4dbe-87f9-f83dbb0e0b0f" r="128" g="128" b="255">Life, Getting you down? - Need a Break?</LineEntry>
-        <LineEntry ID="b11fa1c7-f0e6-441a-8502-1efa9442aada" r="128" g="128" b="255">Find the Lodge Near the Beachfront</LineEntry>
-        <LineEntry ID="aa966d80-c2d1-45ed-b14c-5989c333e0ac" r="128" g="128" b="255">and have a pleasant weekend stay for the price of one night.</LineEntry>
+        <LineEntry ID="56e653b7-f4e0-4dbe-87f9-f83dbb0e0b0f" r="128" g="128" b="255">인생, 우울하게 만들었나요? - 휴식이 필요한가요?</LineEntry>
+        <LineEntry ID="b11fa1c7-f0e6-441a-8502-1efa9442aada" r="128" g="128" b="255">해변 근처의 오두막 찾기</LineEntry>
+        <LineEntry ID="aa966d80-c2d1-45ed-b14c-5989c333e0ac" r="128" g="128" b="255">그리고 1박의 가격으로 즐거운 주말을 보내세요.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="2286bf54-668a-48f5-a3bc-335d3154e82d" timestamp="2520" endstamp="2880" type="ActivateBroadcast" day="1" advertCat="none" isSegment="true">
         <LineEntry ID="3e051ab7-2ab5-4f23-a5b4-67bbed48e976" r="128" g="128" b="255">The Academy, Where you wish you could send your children.</LineEntry>
