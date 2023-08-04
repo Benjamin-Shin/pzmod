@@ -1,0 +1,8 @@
+name=Damulkhan's Mod 한글화 [Simple Status]
+poster=poster.png
+id=DamulkhanSimpleStatusKR
+icon=lcon.png
+authors=Damulkhan
+description=<RGB:0.8,0.8,1>Simple Status 한글어번역. <LINE> <LINE>
+description=<LINE> <LINE>번역: Damulkhan <LINE>
+require=simpleStatus
