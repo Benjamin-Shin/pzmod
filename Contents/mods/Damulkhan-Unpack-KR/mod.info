@@ -1,0 +1,8 @@
+name=Damulkhan's Mod 한글화 [UnPack]
+poster=poster.png
+id=DamulkhanUnPackKR
+icon=lcon.png
+authors=Damulkhan
+description=<RGB:0.8,0.8,1>Unpack 한글번역. <LINE> <LINE>
+description=<LINE> <LINE>번역: Damulkhan <LINE>
+require=TA_UNPACK
