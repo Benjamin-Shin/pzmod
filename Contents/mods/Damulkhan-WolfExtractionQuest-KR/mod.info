@@ -5,4 +5,5 @@ id=DamulkhanWolfExtractionQuestKR
 authors=Damulkhan
 description=<RGB:0.8,0.8,1>Wolf Extraction Quest 한글어번역. <LINE> <LINE>
 description=<LINE> <LINE>번역: Damulkhan <LINE>
+description=<LINE> <LINE>업데이트: 2023.09.09 Version <LINE>
 require=WolfExtractionQuest

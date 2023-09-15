@@ -1,8 +1,8 @@
 Sandbox_KO = {
     Sandbox_WQS = "울프 탈출 퀘스트",
         
-    Sandbox_WQS_DeadlineDays_txt = "마감일",
-    Sandbox_WQS_DeadlineDays_txt_tooltip = "헬리콥터 호출에 필요한 무선신호가 활성화된 후 탈출지점에 도달하는 최대 게임일수 \n 0 - 마감시간을 비활성화.",
+    Sandbox_WQS_DeadlineDays_txt = "데드라인",
+    Sandbox_WQS_DeadlineDays_txt_tooltip = "헬리콥터 호출에 필요한 무선신호가 활성화된 후 탈출지점에 도달하는 최대 게임일수 \n 0 - 데드라인을 비활성화.",
 
     Sandbox_WQS_ExtractionEventHoursDuration_txt = "탈출 이벤트 기간",
     Sandbox_WQS_ExtractionEventHoursDuration_txt_tooltip = "탈출 이벤트 시간(게임시간) \n 3 또는 4시간 권장",
@@ -13,6 +13,13 @@ Sandbox_KO = {
     Sandbox_WQS_WaitForSignalDuration_txt = "무선 신호 대기기간(일)",
     Sandbox_WQS_WaitForSignalDuration_txt_tooltip = "헬리콥터 호출에 필요한 무선신호가 활성화되기 전까지 경과해야 하는 일수\n 0 - 이 옵션을 비활성화하고 시작 시 신호를 활성화됩니다.",
 
+    Sandbox_WQS_RepeatersModeHowMany_txt = "충분한 신호 강도를 얻기 위해 중계기가 필요함",
+    Sandbox_WQS_RepeatersModeHowMany_txt_tooltip = "충분한 무선 신호 세기를 얻기 위해 지도의 여러 위치에 설치해야 하는 중계기 안테나의 개수.\n 이 옵션을 비활성화하고 처음부터 전체 신호 세기를 가지려면 0을 입력.",
+
+    Sandbox_WQS_ItemInZombieLootMultiplier_txt = "수정관련 항목 강하 확률승수",
+    Sandbox_WQS_ItemInZombieLootMultiplier_txt_tooltip = "좀비 시체의 전리품에서 모드 관련 아이템을 찾을 확률에 대한 승수. (무전기, 중계기 위치의 지도 조각 등)",
+
+
     Sandbox_WQS_StartWithExtractionItem_txt = "탈출에 필요한 아이템을 가지고 시작",
     Sandbox_WQS_StartWithExtractionItem_txt_tooltip = "탈출에 필요한 아이템을 가지고 시작합니다. 찾을 필요가 없음.",
 
@@ -21,6 +28,7 @@ Sandbox_KO = {
 
     Sandbox_WQS_GameModeExtended_txt = "확장 퀘스트 모드",
     Sandbox_WQS_GameModeExtended_txt_tooltip = "이 옵션을 선택하면 퀘스트가 처음에 활성화되지 않으며 안테나를 만든 후에만 시작할 수 있습니다.",
+
 
 
     Sandbox_WQS_ZoneMap_txt = "탈출 지역",
